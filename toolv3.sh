@@ -416,7 +416,7 @@ apt install python2
 apt install apache2
 apt install php
 apt install git
-git clone https://github.com/Senitopeng/Mancing.git 
+git clone https://github.com/Senitopeng/Mancin
 cd Mancing
 python2 mancing.py
 fi
